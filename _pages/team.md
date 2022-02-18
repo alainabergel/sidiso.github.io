@@ -18,6 +18,8 @@ Era](https://dark-era.pages.centralesupelec.fr/) projects.
 
 ## [IAS](https://www.ias.u-psud.fr/) <font size="4">(Université Paris Saclay — CNRS)</font>
 
+The laboratory has a long-term experience in the development and the implementation of space instruments for astrophysical observations, and the processing and the analysis of the data taken by these instruments, in particular at long wavelengths (ISO, Spitzer, Herschel, Planck, JWST). 
+
 - [Alain Abergel](mailto:alain.abergel@universite-paris-saclay.fr)
 - [Boris Trahin](mailto:boris.trahin@universite-paris-saclay.fr>)
 
